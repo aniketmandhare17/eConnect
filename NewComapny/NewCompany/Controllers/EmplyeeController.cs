@@ -13,7 +13,7 @@ namespace NewCompany.Controllers
         {
             return View();
         }
-        public ActionResult EmployeeView()
+        public ActionResult Employee()
         {
             return View();
 
